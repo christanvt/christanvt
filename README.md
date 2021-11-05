@@ -20,7 +20,7 @@ Ma passion pour les logiciels consiste à imaginer des idées et à les concrét
 Je prends grand soin de l'expérience, de l'architecture et de la qualité du code des choses que je développe .
 
 <img align="right" alt="GIF" src="https://github.com/christanvt/christanvt/blob/main/img/code.gif?raw=true" width="500" height="320" />
-
+<br/>
 
 
 
@@ -52,7 +52,7 @@ Je prends grand soin de l'expérience, de l'architecture et de la qualité du co
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 <br/>
-<br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christanvt&layout=compact&count_private=true&theme=buefy&locale=fr" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=christanvt&show_icons=true&count_private=true&theme=buefy&locale=fr" /> 
