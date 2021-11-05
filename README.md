@@ -21,8 +21,7 @@ Je prends grand soin de l'expérience, de l'architecture et de la qualité du co
 
 <img align="right" alt="GIF" src="https://github.com/christanvt/christanvt/blob/main/img/code.gif?raw=true" width="500" height="320" />
 <br/>
-<br/>
-<br/>
+
 
 
 ### langages et outils :
@@ -52,6 +51,7 @@ Je prends grand soin de l'expérience, de l'architecture et de la qualité du co
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
-<br/>
-<br/>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=christanvt&show_icons=true&count_private=true&theme=buefy&locale=fr" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christanvt&layout=compact&count_private=true&theme=buefy&locale=fr" />
+
+
+
+<p align="center" marin-top="20px"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=christanvt&show_icons=true&count_private=true&theme=buefy&locale=fr" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christanvt&layout=compact&count_private=true&theme=buefy&locale=fr" />
