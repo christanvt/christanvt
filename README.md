@@ -3,4 +3,6 @@
 <!--
 **christanvt/christanvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=christanvt.christanvt&left_color=green&right_color=red)
+<img src="https://github.com/anuraghazra/github-readme-stats/api?username=christanvt&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
