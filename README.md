@@ -7,9 +7,9 @@
   <img align="left" alt="Christian | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=100069845500475">
+<!-- <a href="https://www.facebook.com/profile.php?id=100069845500475">
   <img align="left" alt="Christian Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
+</a> -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=christanvt.christanvt)
 
