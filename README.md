@@ -1,10 +1,10 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/christian-viot/" target="about_blank">
-  <img align="left" alt="Christian LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Christian LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
 </a>
 
 <a href="https://twitter.com/Christi36763995">
-  <img align="left" alt="Christian | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Christian | Twitter" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAmpknqZ_sfyL5eJllTUtptlrGqQEco7vRtA&usqp=CAU" />
 </a>
 
 <!-- <a href="https://www.facebook.com/profile.php?id=100069845500475">
